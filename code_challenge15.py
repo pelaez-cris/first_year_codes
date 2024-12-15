@@ -25,4 +25,4 @@ while isContinue == True:
     else:
         os.system("cls")
         print("invalid input, please try again!")
-        continues
+        continue
